@@ -1,0 +1,28 @@
+# virtual environments
+venv/
+.venv/
+env/
+
+# secrets
+.env
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# stray files
+1.0
+*.log
+
+# assignment documents (not to be posted publicly)
+PROBLEM_STATEMENT.docx
+openapi.yaml
+DATA_MODEL.md
